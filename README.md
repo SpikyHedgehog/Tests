@@ -69,6 +69,7 @@ C, C++, C#, Паскаль, ассемблер, java, js, python. Предназ
 восьмое тут: https://github.com/SpikyHedgehog/FiguresAndTests
 
 девятое тут: https://github.com/SpikyHedgehog/FiguresAndTests/blob/master/Task9.sql
+
 Дополнительный код залил сюда: https://github.com/SpikyHedgehog/FileSearcher
 
 
