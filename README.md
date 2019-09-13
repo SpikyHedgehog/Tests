@@ -64,12 +64,11 @@ C, C++, C#, Паскаль, ассемблер, java, js, python. Предназ
  Проверку на то, является ли треугольник прямоугольным
  Вопрос №9
  В базе данных MS SQL Server есть продукты и категории. Одному продукту может соответствовать много категорий, в одной категории может быть много продуктов. Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». Если у продукта нет категорий, то его имя все равно должно выводиться.
-А эти вопросы были решены в предыдущем письме. На всякий случай отдублирую ссылки тут:
+
 
 восьмое тут: https://github.com/SpikyHedgehog/FiguresAndTests
-девятое тут: https://github.com/SpikyHedgehog/FiguresAndTests/blob/master/Task3.sql
+девятое тут: https://github.com/SpikyHedgehog/FiguresAndTests/blob/master/Task9.sql
 Дополнительный код залил сюда: https://github.com/SpikyHedgehog/FileSearcher
 
-В девятом задании нужно только поменять слова "статья" на "продукт", а "тег" на "категория".
-Но на всякий случай, сделал это сам:
-https://github.com/SpikyHedgehog/FiguresAndTests/blob/master/Task9.sql
+
+
